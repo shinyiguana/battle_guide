@@ -1,0 +1,72 @@
+/*rgb(168, 149, 10)*/
+
+body {
+	color:rgb(168, 149, 10);
+	font-size:110%;
+	background-color:rgb(0,7,22);
+	font-family: 'Overlock', serif;	
+}
+
+h1 {
+	font-size:3.75em;
+	font-variant:small-caps;
+	text-align:center;
+}
+
+h2 {
+	font-size:2.65em;
+	font-variant:small-caps;
+}
+
+h3 {
+	font-size:2.00em;
+	font-variant:small-caps;
+}
+
+h4 {
+	font-size:1.75em;
+	font-variant:small-caps;
+}
+
+h5 {
+	font-size:1.5em;
+	font-variant:small-caps;
+}
+
+h6 {
+	font-size:1.25em;
+	font-variant:small-caps;
+}
+
+.sublist {
+	font-size:.95em;
+}
+
+nav {
+	font-size:.75em;
+	margin:0px;
+}
+
+.image div {
+	font-size:.90em;
+}
+
+#in{
+	background-image:url(http://live.ad2460.com/presskit/images/Matter-Warden_big.jpg);
+	color:White;
+}
+
+#stron{
+	background-image:url(https://img.gfx.no/1488/1488852/strontechvolker-large.1000x563.jpg);
+	color:Red;
+}
+
+#neo {
+	background-image:url(http://orig13.deviantart.net/8589/f/2015/037/f/e/gravity_well_by_nym182-d8gvep7.jpg);
+	color:White;
+}
+
+#in, #stron, #neo {
+	background-size:cover;
+	
+}
