@@ -53,16 +53,19 @@ nav {
 
 #in{
 	background-image:url(http://live.ad2460.com/presskit/images/Matter-Warden_big.jpg);
+	background-color:rgba(0,0,0,.5);
 	color:White;
 }
 
 #stron{
 	background-image:url(https://img.gfx.no/1488/1488852/strontechvolker-large.1000x563.jpg);
-	color:Red;
+	background-color:rgba(0,0,0,.5);
+	color:White;
 }
 
 #neo {
 	background-image:url(http://orig13.deviantart.net/8589/f/2015/037/f/e/gravity_well_by_nym182-d8gvep7.jpg);
+	background-color:rgba(0,0,0,.5);
 	color:White;
 }
 
